@@ -22,19 +22,12 @@ This Android app allows users to capture images, rotate and crop them, and save 
 
 ### Clone the repository:
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
+git clone (https://github.com/21AbhishekKS/AndroidChallenge_Abhishek-K-S.git)
 ```
 
 ### Open the project in Android Studio.
 
-### Build the project:
-```sh
-Build > Make Project
-```
 
-### Run the app:
-```sh
-Run > Run 'app'
 ```
 
 📌 Grant **camera and storage permissions** when prompted.
